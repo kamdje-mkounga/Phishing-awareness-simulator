@@ -47,7 +47,7 @@ Users can:
 ![Dashboard Before](screenshots/dashboard-beforeconnection.png)
 
 ### Dashboard (After Login)
-![Dashboard After](screenshots/dashboard-afterconnection.png)
+![Dashboard After](screenshots/dashboard-afterconnectiion.png)
 
 ### Campaign List
 ![Campaigns](screenshots/campaigns.png)
