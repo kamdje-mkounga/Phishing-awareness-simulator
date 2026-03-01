@@ -41,6 +41,26 @@ Users can:
 
 ---
 
+## Screenshots
+
+### Dashboard (Before Login)
+![Dashboard Before](screenshots/dashboard-before-connection.png)
+
+### Dashboard (After Login)
+![Dashboard After](screenshots/dashboard-after-connection.png)
+
+### Campaign List
+![Campaigns](screenshots/campaigns.png)
+
+### Create Campaign
+![Create Campaign](screenshots/campaign-create.png)
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Login Page
+![Login](screenshots/login.png)
+
 ## Features
 
 - Authentication system (Register / Login)
