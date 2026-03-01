@@ -60,6 +60,13 @@ Users can:
 
 ---
 
+## Author
+
+Roberto Junior Kamdje Mkounga
+BTech Computer Science Student  
+Cybersecurity & backend Development Enthusiast
+GitHub: https://github.com/kamdje-mkounga
+
 ## Installation
 
 ```bash
