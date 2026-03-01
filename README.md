@@ -44,16 +44,16 @@ Users can:
 ## Screenshots
 
 ### Dashboard (Before Login)
-![Dashboard Before](screenshots/dashboard-before-connection.png)
+![Dashboard Before](screenshots/dashboard-beforeconnection.png)
 
 ### Dashboard (After Login)
-![Dashboard After](screenshots/dashboard-after-connection.png)
+![Dashboard After](screenshots/dashboard-afterconnection.png)
 
 ### Campaign List
 ![Campaigns](screenshots/campaigns.png)
 
 ### Create Campaign
-![Create Campaign](screenshots/campaign-create.png)
+![Create Campaign](screenshots/campaigns-create.png)
 
 ### Home Page
 ![Home](screenshots/home.png)
